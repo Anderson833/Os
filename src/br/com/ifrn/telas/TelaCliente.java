@@ -302,7 +302,7 @@ public class TelaCliente extends javax.swing.JInternalFrame {
         Connection conn = Conexao.getConnection();
         ArrayList<Clientes> lista = new ArrayList<>();
         try {
-            String sql = "SELECT * FROM cliente WHERE nomeCli like ?";
+            String sql = "select idCli as Id, nomeCli as Nome, endCli as Endereço, foneCli as Fone, emalCli as Email from cliente where nomeCli like ?";
             PreparedStatement ptm = conn.prepareStatement(sql);
             ptm.setString(1, txtlista.getText() + "%");
             ResultSet rst = ptm.executeQuery();
