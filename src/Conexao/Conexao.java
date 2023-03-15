@@ -51,7 +51,7 @@ public class Conexao {
             Class.forName("com.mysql.jdbc.Driver");
 
             //Criando uma Conexão com Banco De Dados;
-            conectar = DriverManager.getConnection("jdbc:mysql://localhost:3306/bdinfortec?characterEncoding=utf-8", "Osdba", "1234");
+            conectar = DriverManager.getConnection("jdbc:mysql://192.168.0.110:3306/bdinfortec?characterEncoding=utf-8", "Osdba", "1234");
 
         } catch (Exception e) {
             // Caso ocorrer algum error exibir essa mensagem;

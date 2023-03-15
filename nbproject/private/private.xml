@@ -5,8 +5,11 @@
         <group>
             <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/dao/LoginDao.java</file>
             <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/modelo/Usuario.java</file>
+            <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/dao/AcessoDao.java</file>
             <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/telas/TelaPrincipal.java</file>
             <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/telas/TelaLogin.java</file>
+            <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/telas/TelaOs.java</file>
+            <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/Conexao/Conexao.java</file>
             <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/telas/TelaUsuario.java</file>
             <file>file:/C:/Users/ander/OneDrive/Documentos/NetBeansProjects/ServicosOs/src/br/com/ifrn/dao/UsuarioDao.java</file>
         </group>
